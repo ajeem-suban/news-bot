@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="NEWS-BOT Banner" width="100%">
+</p>
+
+
+
 # 📰 News-Bot
 
 **Automated multi-category news digest — fetched, deduplicated, summarized by Gemini, and delivered to Telegram every day at 8:00 AM IST.**
